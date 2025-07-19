@@ -1,0 +1,23 @@
+{
+  "name": "sweet-magic",
+  "author": "yoona8",
+  "repository": {},
+  "displayName": "sweet-magic",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sweet Magic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sweet Magic-color-theme.json"
+      }
+    ]
+  }
+}
